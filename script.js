@@ -24,12 +24,13 @@ const perguntas = [
 ",
             alternativas: [
                 {
-                    texto: "A energia geotérmica precisa ser mais explorada visto que utiliza o calor interno da terra, pois não depende do clima e é inesgotável.",
-                    afirmacao: "Você demonstra um perfil  de pesquisador e inovador que busca por meio da inovação soluções para o meio ambiente e sustentabilidade das gerações posteriores."
+                    texto: "Denunciaria atividades ilegais às autoridades responsáveis.",
+                    afirmacao: "Você acredita que atitudes responsáveis ajudam a combater práticas que prejudicam a natureza.."
                 },
                 {
-                    texto:  "Seria interessante explorar primeiramente fontes renováveis exotérmicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
-                    afirmacao: "Você é uma pessoa que dá ênfase em priorizar os recursos disponíveis, pensando no meio ambiente e sem descartar o viés econômico."
+                    texto:  "Seria interessante explorar primeiramicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
+                    afirmacao: "Conversaria com outras pessoas para conscientizá-las sobre o problema.
+."
                 }    
                
             ]
