@@ -24,29 +24,28 @@ const perguntas = [
 ",
             alternativas: [
                 {
-                    texto: "Denunciaria atividades ilegais às autoridades responsáveis.",
-                    afirmacao: "Você acredita que atitudes responsáveis ajudam a combater práticas que prejudicam a natureza.."
+                    texto: "Denunciaria atividades ilegais às autoridades responsáveis...",
+                    afirmacao: "Você acredita que atitudes responsáveis ajudam a combater práticas que prejudicam a natureza..."
                 },
                 {
-                    texto:  "Seria interessante explorar primeiramicas, em segundo plano utilizar a energia geotérmica apesar dos custos elevados de explorações e possibilidades de contaminação de rios. ",
-                    afirmacao: "Conversaria com outras pessoas para conscientizá-las sobre o problema.
-."
+                    texto:  "Conversaria com outras pessoas para conscientizá-las sobre o problema.. ",
+                    afirmacao: "amigo da Sustentabilidade — Você procura maneiras de aproveitar os recursos naturais sem prejudicar o meio ambiente."
                 }    
                
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "Qual atitude você considera mais importante para proteger os animais??",
 
             alternativas: [
                 {
-                    texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
-                    afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
+                    texto: "Respeitar as leis que protegem a fauna e os períodos de reprodução..",
+                    afirmacao: "Defensor das Leis Ambientais — Você acredita que seguir as regras é fundamental para preservar os animais.."
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:    "incentivar práticas de pesca e atividades na natureza de forma sustentável..",
                
-                    afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
+                    afirmacao: "É fundamental incentivar práticas de pesca e atividades na natureza de forma sustentável, garantindo a preservação dos ecossistemas, a proteção das espécies e o uso responsável dos recursos naturais para as futuras gerações.."
                 }    
                
             ]
