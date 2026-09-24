@@ -1,3 +1,5 @@
+import {aleatorio} from ‘./aleatorio.js’;
+import {perguntas} from ‘./perguntas.js;
 const caixaPrincipal = document.querySelector(".caixa-principal");
 const caixaPerguntas = document.querySelector(".caixa-perguntas");
 const caixaAlternativas = document.querySelector(".caixa-alternativas");
@@ -33,10 +35,7 @@ function respostaSelecionada(opcaoSelecionada) {
     atual++
     mostraPergunta();
 }
-function aleatorio(lista) {
-const posicao = Math.floor(Math.random()* lista.length);
-return lista[posicao];
-}
+
 function mostraResultado(){
     caixaPerguntas.textContent = "Olha só o que podemos afirmar sobre você...";
     textoResultado.textContent = historiaFinal;
