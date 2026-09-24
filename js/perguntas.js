@@ -1,4 +1,4 @@
-const perguntas = [
+export const perguntas = [
     {
         enunciado: "O que mais preocupa você quando pensa na caça e pesca ilegal?",
         alternativas: [
