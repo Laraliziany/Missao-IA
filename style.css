@@ -37,3 +37,6 @@ button:hover {
 .caixa-resultado{
     display: none;
 }
+.caixa-resultado.mostrar{
+    display: block;
+}
