@@ -45,7 +45,6 @@ function mostraResultado(){
     botaoJogarNovamente.addEventListener("click", jogaNovamente());
 }
 
-}
 function jogaNovamente(){
     atual = 0;
     historiaFinal = "";
